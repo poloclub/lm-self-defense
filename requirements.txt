@@ -44,7 +44,7 @@ python-dateutil==2.8.2
 pytz==2023.3.post1
 PyYAML==6.0.1
 regex==2023.10.3
-requests==2.31.0
+requests==2.32.0
 responses==0.13.3
 safetensors==0.4.2
 setuptools==68.2.2
